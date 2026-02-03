@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Clean Material 3 theme -->
+    <style name="Theme.InchMeter"
+        parent="Theme.Material3.DayNight">
+        <!-- Optional: Customize colors if you're using them in XML somewhere -->
+        <!-- These are not necessary for Compose-only projects -->
+    </style>
+
+    <!-- Optional fallback color (only if used in vector drawables etc.) -->
+    <color name="your_default_control_color">#FF000000</color>
+
+</resources>
